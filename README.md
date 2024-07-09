@@ -58,4 +58,4 @@
 
 ### Решение 3
 
-![Ссылка]()
+![Ссылка](https://github.com/Markin-AI/8-01/network)
